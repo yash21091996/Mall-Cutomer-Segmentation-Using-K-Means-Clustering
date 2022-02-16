@@ -1,5 +1,5 @@
 # Mall-Cutomer-Segmentation-Using-K-Means-Clustering
-Motivation
+**Motivation**
 
 Market segmentation can help you to define and better understand your target audiences and ideal customers. If you're a marketer, this allows you to identify the right market for your products and then target your marketing more effectively.
 
@@ -22,7 +22,7 @@ Annual Income (k$): Annual Income of the customer
 
 Spending Score (1-100): Score assigned by the mall based on customer behavior and spending nature.
 
-Results derived from Visualizations:
+**Results derived from Visualizations:**
 
 The data has nearly gaussian distribution.
 Customers with low annual income have relatively low spending scores.
