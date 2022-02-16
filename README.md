@@ -7,7 +7,7 @@ Using Machine Learning algorithms makes it easy to segment your customers accord
 
 **Dataset**
 
-The dataset is aquired from kaggle and the link is given below :
+The dataset is acquired from kaggle and the link is given below :
 
 https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python
 
