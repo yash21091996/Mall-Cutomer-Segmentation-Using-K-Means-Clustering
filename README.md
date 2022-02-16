@@ -5,7 +5,8 @@ Market segmentation can help you to define and better understand your target aud
 
 Using Machine Learning algorithms makes it easy to segment your customers according to their behaviours. This can be done by just collecting basic data for example customer's annual income, their purchase history etc. Usually mall owners issue a card to customers which is used to track their purchase history.
 
-Dataset
+**Dataset**
+
 The dataset is aquired from kaggle and the link is given below :
 
 https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python
@@ -24,9 +25,9 @@ Spending Score (1-100): Score assigned by the mall based on customer behavior an
 
 **Results derived from Visualizations:**
 
-The data has nearly gaussian distribution.
-Customers with low annual income have relatively low spending scores.
-Customers with fair enough income spend the most.
-Females spending score is more than males but the difference is not too significant.
-People of smaller ages spend less.
-Average age of cutomers is between 30 to 40 years.
+1. The data has nearly gaussian distribution.
+2. Customers with low annual income have relatively low spending scores.
+3. Customers with fair enough income spend the most.
+4. Females spending score is more than males but the difference is not too significant.
+5. People of smaller ages spend less.
+6. Average age of cutomers is between 30 to 40 years.
