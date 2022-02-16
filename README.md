@@ -13,15 +13,15 @@ https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python
 
 The dataset consists of following five features of 200 customers:
 
-CustomerID: Unique ID assigned to the customer
+1. CustomerID: Unique ID assigned to the customer
 
-Gender: Gender of the customer
+2. Gender: Gender of the customer
 
-Age: Age of the customer
+3. Age: Age of the customer
 
-Annual Income (k$): Annual Income of the customer
+4. Annual Income (k$): Annual Income of the customer
 
-Spending Score (1-100): Score assigned by the mall based on customer behavior and spending nature.
+5. Spending Score (1-100): Score assigned by the mall based on customer behavior and spending nature.
 
 **Results derived from Visualizations:**
 
